@@ -1,0 +1,8 @@
+pandas
+numpy
+langchain
+langchain-community
+langchain-ollama
+langchain-groq
+requests
+pillow
